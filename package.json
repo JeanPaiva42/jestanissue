@@ -25,7 +25,7 @@
   "devDependencies": {
     "@kgryte/noop": "^1.0.0",
     "browserify": "13.x.x",
-    "codecov": "1.x.x",
+    "codecov": "3.x.x",
     "istanbul": "^0.4.1",
     "jshint": "2.x.x",
     "jshint-stylish": "2.x.x",
